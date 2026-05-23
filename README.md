@@ -100,7 +100,7 @@ Outlook (Scheduled distribution)
 
 | File | Description |
 |---|---|
-| screenshot|
+| screenshot| Dashboard screenshots 
 | README.md | Project documentation and insights |
 
 ---
